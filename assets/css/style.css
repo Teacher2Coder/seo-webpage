@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Class Selectors */
+/* Header Class Selectors */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -44,15 +44,18 @@ body {
     margin-left: 25px;
 }
 
+/* Anchor Element Selector */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraph Element Selector */
 p {
     font-size: 16px;
 }
 
+/* Hero Class Selector */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,12 +75,14 @@ p {
     margin-left: 25px;
 }
 
+/* Content Class Selector */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* SEO ID selectors */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -96,6 +101,7 @@ p {
     font-size: 36px;
 }
 
+/* Online Reputation ID Selectors */
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,6 +120,7 @@ p {
     font-size: 36px;
 }
 
+/* Social Media ID Selectors */
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -132,6 +139,7 @@ p {
     font-size: 36px;
 }
 
+/* Benefits Class Selectors */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -191,6 +199,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer Element Selectors */
 .footer {
     padding: 30px;
     clear: both;
